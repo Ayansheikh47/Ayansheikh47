@@ -64,17 +64,6 @@
 
 ---
 
-## 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayansheikh47&show_icons=true&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayansheikh47&layout=compact&theme=github_dark"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
