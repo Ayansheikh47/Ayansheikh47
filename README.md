@@ -1,311 +1,418 @@
+<div align="center">
+
 👋 Hi, I'm Sakib Ayan Sheikh
 
-Java Backend Developer • Software Engineer • Builder of Reliable Systems
+Java Backend Developer · Software Engineer · Builder
 
-<p align="left">
+<p>
   <a href="https://github.com/Ayansheikh47">
-    <img src="https://img.shields.io/badge/GitHub-Ayansheikh47-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Ayansheikh47-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ayansheikh47">
-    <img src="https://img.shields.io/badge/LinkedIn-Sakib%20Ayan%20Sheikh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ayansheikhpersonal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-I build backend systems with Java & Spring Boot, design REST APIs, work with relational databases, and enjoy solving the problems that appear when software has to be secure, consistent, concurrent, and reliable.
+<br>
 
-🧑‍💻 About Me
+I build software that doesn't just work — it works reliably.
+
+<p>
+  <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-REST%20APIs-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL%20%7C%20MySQL-Databases-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Full%20Stack-61DAFB?style=flat-square&logo=react&logoColor=111827" />
+  <img src="https://img.shields.io/badge/AI-LLM%20Integration-7C3AED?style=flat-square" />
+</p>
+
+</div>
+
+🧑‍💻 A little about me
 
 I'm a Computer Science graduate focused on Java backend development and software engineering.
 
-🎓 B.Tech in Computer Science & Engineering — Rajiv Gandhi College of Engineering Research and Technology
+I enjoy going beyond CRUD and understanding the engineering problems underneath a system — authentication, transactions, concurrency, database consistency, testing, APIs and distributed systems.
 
-☕ Strong focus on Java, Spring Boot, Spring Security, JPA & Hibernate
+        Java
+         │
+         ▼
+   Spring Boot ──────── REST APIs
+         │                    │
+         ▼                    ▼
+   JPA / Hibernate       Spring Security
+         │                    │
+         └─────────┬──────────┘
+                   ▼
+             Database Layer
+          PostgreSQL / MySQL
+                   │
+                   ▼
+        Reliable Backend Systems
 
-🔌 Interested in REST APIs, Microservices, System Design & Distributed Systems
+🎯 Currently focused on
 
-🗄️ Comfortable working with MySQL, PostgreSQL & MongoDB
+Spring Boot · System Design · Microservices · Docker · AWS · Kafka · Testing · Spring AI
 
-🧪 Practice with JUnit 5, Mockito, Integration Testing & Postman
+⚡ Tech I work with
 
-🚀 Exploring Docker, AWS, Kafka, CI/CD and Spring AI
-
-🤖 Interested in practical AI/LLM integration, not just AI demos
-
-⚽ District-level football player
-
-🤝 Former Treasurer & Joint Secretary of ACT at RCERT
-
-🛠️ Tech Stack
+<div align="center">
 
 Backend
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
 
 Databases
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
 Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 
-Testing, DevOps & Tools
+DevOps · Testing · Tools
 
-<p>
-  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mockito-78C257?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions,kafka,postman,idea,vscode" />
 
-AI & LLM Integration
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM%20Integration-111827?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square"/>
-</p>
+<br>
 
-🚀 Featured Projects
+<div align="center">
 
-💳 Ledger — Reliable Transaction & Account Management System
+Core Engineering
 
-"Moving money is easy. Moving money correctly is hard."
+OOP · REST APIs · JWT · Spring Security · JPA · Hibernate · SQL · DSA · System Design · Design Patterns
 
-A backend-focused financial transaction system built with Java, Spring Boot and PostgreSQL, designed around correctness and reliability rather than simple CRUD.
+Testing
 
-What makes it interesting?
+JUnit 5 · Mockito · Integration Testing · Postman
 
-🔁 Idempotent transactions prevent duplicate money transfers
+AI
 
-⚡ Optimistic locking protects against concurrent balance updates
+Gemini API · Spring AI · LLM Integration · NLP
 
-🧾 Double-entry-style ledger entries provide an auditable transaction record
+</div>
 
-🔍 Reconciliation independently verifies recorded vs. computed balances
+🚀 Things I've built
 
-🔐 JWT authentication with protected endpoints
+<div align="center">
 
-🧪 Real concurrency and reliability tests using JUnit 5
+💳 Ledger
 
-🗃️ Flyway versioned database migrations
+Reliable Transaction & Account Management System
 
-⚛️ React dashboard with dedicated reliability-testing tools
+Moving money is easy. Moving money correctly is hard.
 
-Stack: Java 21 Spring Boot Spring Security JPA/Hibernate PostgreSQL Flyway JUnit 5 React Tailwind CSS
+</div>
 
-📌 Repository: Add your Ledger repository link here
+Ledger is a backend-focused financial system built around correctness, consistency and reliability rather than simple CRUD.
 
-🎓 GradElevate — AI-Powered Career Guidance Platform
+🔐 Security
 
-A full-stack platform designed to help students choose careers, understand skill gaps, improve resumes and build personalized learning roadmaps.
+🔁 Reliability
 
-Highlights
+⚡ Concurrency
 
-🧠 Weighted career recommendation algorithm across 40+ career paths
+🧾 Auditability
 
-📚 Skill ecosystem containing 100+ skills
+JWT Auth
 
-🤖 Gemini 2.5 Flash integration for career explanations, resume analysis and learning-order generation
+Idempotency
 
-📄 AI resume analyzer with ATS/JD keyword matching
+Optimistic Locking
 
-🗺️ Prerequisite-aware skill roadmap
+Ledger Entries
 
-🔐 JWT + Spring Security + role-based access control
+RBAC
 
-👨‍💼 Admin dashboard with CRUD for careers, skills, resources and AI tools
+Duplicate Protection
+
+Concurrent Tests
+
+Reconciliation
+
+Interesting engineering problems solved:
+
+🔁 Same request → same transaction, money moved once
+
+⚡ Concurrent transfers → no silent lost updates
+
+🧾 Double-entry-style ledger entries → auditable money movement
+
+🔍 Reconciliation → recorded balance vs independently computed balance
+
+🗃️ Flyway → version-controlled database schema
+
+🧪 JUnit → real reliability & concurrency testing
+
+⚛️ React dashboard → interactive reliability testing
+
+Stack
+
+Java 21 Spring Boot Spring Security JPA/Hibernate PostgreSQL Flyway JUnit 5 React Tailwind CSS
+
+<div align="center">
+
+🔗 View Ledger →
+
+</div>
+
+<div align="center">
+
+🎓 GradElevate
+
+AI-Powered Career Guidance Platform
+
+</div>
+
+A full-stack platform helping students choose careers, identify skill gaps, analyze resumes and build personalized learning roadmaps.
+
+✨ Highlights
+
+40+ career paths · 100+ skills · 20+ AI tools
+
+🧠 Weighted career recommendation engine
+
+🎯 Personalized skill-gap analysis
+
+🤖 Gemini 2.5 Flash integration
+
+📄 AI resume + ATS analysis
+
+🔎 Job description keyword matching
+
+🗺️ Prerequisite-aware learning roadmap
+
+🔐 JWT + Spring Security + RBAC
+
+👨‍💼 Full admin CRUD panel
 
 🐳 Docker + GitHub Actions CI/CD
 
-🌐 Deployed using Railway/Render for backend and Vercel for frontend
+Stack
 
-Stack: Java Spring Boot Spring Security PostgreSQL React Docker Gemini API
+Java Spring Boot Spring Security PostgreSQL React Docker Gemini API
 
-🔗 Repository: View GradElevate
+<div align="center">
 
-📚 Notes Provider Bot — Telegram Study Material Platform
+🔗 View GradElevate →
 
-A Python Telegram bot built to solve a real student problem: finding notes, previous-year papers and practical files scattered across different groups and links.
+</div>
 
-One bot. One place. Study material for the CSE department — available 24/7 during deployment.
+<div align="center">
 
-Highlights
+📚 Notes Provider Bot
 
-📖 Notes, PYQs and practical files
+A Telegram Study Material Platform
 
-🏫 Coverage from Semester 1 through Semester 7
+</div>
+
+A Python Telegram bot created to solve a real student problem: finding notes, PYQs and practical files scattered across different groups and links.
+
+One bot. One place. Study material for the CSE department.
+
+📊 By the numbers
+
+📚 Materials
+
+🎓 Semesters
+
+🧑‍🎓 Reach
+
+⚡ Access
+
+Notes + PYQs + Practicals
+
+1 → 7
+
+CSE Students
+
+24/7
 
 ⌨️ Inline keyboard navigation
 
-🔁 Reusable menu architecture instead of hundreds of repetitive functions
+🔁 Reusable dynamic menu architecture
 
-📣 Update-channel integration
+📣 Update channel integration
 
-⚡ Instant file delivery through Telegram infrastructure
+⚡ Instant Telegram file delivery
 
-👨‍🎓 Actively used by students across CSE department years
+🏫 Department-wide academic material coverage
 
-Stack: Python pyTelegramBotAPI Telegram Bot API
+Stack
 
-🔗 Repository: View Notes Provider Bot
+Python pyTelegramBotAPI Telegram Bot API
+
+<div align="center">
+
+🔗 View Notes Provider Bot →
+
+</div>
+
+<div align="center">
 
 📊 Smart Results Administration System
 
-A full-stack academic result management system that replaces manual result distribution with a secure Student/Admin platform.
+Digital Academic Result Management
 
-Highlights
+</div>
 
-👨‍💼 Admin panel with result and student CRUD
+A full-stack application that replaces manual result distribution with a secure Student/Admin platform.
 
-🎓 Student portal for marks and grades
+👨‍💼 Admin dashboard + CRUD
+
+🎓 Student result portal
 
 🔐 Role-based authentication
 
-📄 On-demand PDF result generation
+📄 PDF result generation
 
-🗄️ MySQL-backed persistence
+🗄️ MySQL persistence
 
-🧪 JUnit 5, Mockito and Postman testing
+🧪 JUnit + Mockito + Postman testing
 
-📈 Designed to serve 200+ student records
+👥 Designed for 200+ student records
 
-Stack: Java Spring Boot Spring Security Thymeleaf MySQL JPA/Hibernate JUnit 5
+Stack
 
-🔗 Repository: View Smart Result Manager
+Java Spring Boot Spring Security Thymeleaf MySQL JPA/Hibernate
 
-🧠 What I Like Building
+<div align="center">
 
-Reliable Backend Systems
-        ↓
-Clean REST APIs
-        ↓
-Secure Authentication
-        ↓
-Correct Database Transactions
-        ↓
-Concurrency & Failure Handling
-        ↓
-Useful Products
+🔗 View Smart Results Manager →
 
-I'm particularly interested in backend problems where correctness matters more than simply making the happy path work.
+</div>
 
-📈 GitHub
+🧠 How I think about backend engineering
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayansheikh47&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayansheikh47&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayansheikh47&theme=transparent&hide_border=true" />
-</p>
+❌ "The API returns 200, so we're done."
 
-💼 Experience
+↓
 
-J.P. Morgan Chase & Co. — Software Engineering Virtual Experience
+✅ "What happens when the request is duplicated?"
 
-Feb 2026 – Mar 2026
+↓
 
-Implemented Apache Kafka for event-driven communication
+✅ "What happens when two requests arrive together?"
 
-Worked with Spring Data JPA/Hibernate for persistence
+↓
 
-Simulated a backend pipeline across multiple services
+✅ "Can the database state be independently verified?"
 
-Validated REST APIs using Postman
+↓
 
-Wrote JUnit tests for core business logic
+🚀 Now we have a system.
 
-Explored microservice patterns beyond the assigned scope
+</div>
 
-🏆 Leadership & Achievements
+📊 GitHub at a glance
 
-🏅 Treasurer & Joint Secretary, ACT — RCERT (2024–2026)
+<div align="center">
 
-Managed a ₹2L+ budget
+<img src="https://github-readme-stats.vercel.app/api?username=Ayansheikh47&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
 
-Helped organize technical and cultural events involving 500+ participants
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayansheikh47&layout=compact&hide_border=true&theme=transparent" height="165" />
 
-⚽ District-Level Football Player
+<br><br>
 
-Represented Chandrapur district in inter-district competitions
+<img src="https://streak-stats.demolab.com?user=Ayansheikh47&hide_border=true&theme=transparent" />
 
-📚 Certifications
+</div>
 
-☕ Java Backend Development — Substring Technologies
+🏆 Beyond Code
 
-💻 Software Engineering Virtual Internship — J.P. Morgan Chase & Co.
+<table>
+<tr>
+<td width="50%">
 
-🚀 Java Full Stack Development — Kiran Academy, Pune (In Progress)
+🎓 Education
 
-🌱 Currently Learning
+B.Tech — Computer Science & Engineering
 
-Java & Spring Boot
-        +
-System Design
-        +
-Microservices
-        +
-Docker & AWS
-        +
-Apache Kafka
-        +
-Testing & CI/CD
-        +
-Spring AI / LLM Integration
+Rajiv Gandhi College of Engineering Research and Technology
 
-🎯 My Engineering Philosophy
+CGPA: 7.84 / 10
 
-Don't just make it work. Make it reliable.
+</td>
+<td width="50%">
 
-I enjoy understanding why a system behaves the way it does — from JVM internals and database transactions to concurrency, authentication, distributed systems and API design.
+🤝 Leadership
 
-🤝 Let's Connect
+Treasurer & Joint Secretary — ACT, RCERT
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayansheikh47">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ayansheikhpersonal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ayansheikh47">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+Managed a ₹2L+ budget for technical & cultural events involving 500+ participants.
 
-<p align="center">
-  <i>Building, learning, and trying to make software a little more reliable every day.</i>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
+⚽ Football
+
+District-Level Football Player
+
+Represented Chandrapur district in inter-district competitions.
+
+</td>
+<td width="50%">
+
+📜 Certifications
+
+☕ Java Backend Development💻 J.P. Morgan Software Engineering Virtual Internship🚀 Java Full Stack Development — Kiran Academy
+
+</td>
+</tr>
+</table>
+
+🌱 Learning next
+
+<div align="center">
+
+Spring Boot
+    │
+    ├──► Microservices
+    │
+    ├──► System Design
+    │
+    ├──► Kafka
+    │
+    ├──► Docker + AWS
+    │
+    ├──► Testing + CI/CD
+    │
+    └──► Spring AI + LLM Applications
+
+</div>
+
+🤝 Let's connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ayansheikh47">
+<img src="https://img.shields.io/badge/LinkedIn-Sakib%20Ayan%20Sheikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ayansheikhpersonal@gmail.com">
+<img src="https://img.shields.io/badge/Email-ayansheikhpersonal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ayansheikh47">
+<img src="https://img.shields.io/badge/GitHub-Ayansheikh47-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+⭐ Thanks for stopping by.
+
+Building. Learning. Breaking things. Fixing them better.
+
+</div>
