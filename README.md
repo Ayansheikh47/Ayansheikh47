@@ -139,7 +139,7 @@ A backend-focused financial system built around **correctness, consistency, and 
 
 `Java 21` `Spring Boot` `Spring Security` `JPA/Hibernate` `PostgreSQL` `Flyway` `JUnit 5` `React` `Tailwind CSS`
 
-<div align="center"><a href="ledger-system">🔗 View Ledger →</a></div>
+<div align="center"><a href="https://github.com/Ayansheikh47/ledger-system">🔗 View Ledger →</a></div>
 
 <br>
 
@@ -167,7 +167,7 @@ A full-stack platform helping students choose careers, identify skill gaps, anal
 
 `Java` `Spring Boot` `Spring Security` `PostgreSQL` `React` `Docker` `Gemini API`
 
-<div align="center"><a href="GRADELEVATE">🔗 View GradElevate →</a></div>
+<div align="center"><a href="https://github.com/Ayansheikh47/GRADELEVATE">🔗 View GradElevate →</a></div>
 
 <br>
 
@@ -193,7 +193,7 @@ A Python Telegram bot solving a real student problem: finding notes, PYQs, and p
 
 `Python` `pyTelegramBotAPI` `Telegram Bot API`
 
-<div align="center"><a href="Notes-supplier-bot">🔗 View Notes Provider Bot →</a></div>
+<div align="center"><a href="https://github.com/Ayansheikh47/Notes-supplier-bot">🔗 View Notes Provider Bot →</a></div>
 
 <br>
 
@@ -211,7 +211,7 @@ A full-stack application replacing manual result distribution with a secure Stud
 
 `Java` `Spring Boot` `Spring Security` `Thymeleaf` `MySQL` `JPA/Hibernate`
 
-<div align="center"><a href="Smart-Result-manager">🔗 View Smart Results Manager →</a></div>
+<div align="center"><a href="https://github.com/Ayansheikh47/Smart-Result-manager">🔗 View Smart Results Manager →</a></div>
 
 <br>
 
